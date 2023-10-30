@@ -25,7 +25,3 @@ Here, you'll find different types of predictive regression models implemented in
 - Update the load data section of code to fit your data.
 - Pip install requirements.
 - Run module.
-
-## License
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
