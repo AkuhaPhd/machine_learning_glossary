@@ -19,7 +19,7 @@ Here, you'll find different types of predictive regression models implemented in
 - **Random Forest Regression:** Ensemble regression using multiple decision trees.
 
 ## Implementation Languages
-- **Python:** Implementations using popular Python libraries like NumPy, scikit-learn, Pandas and Matplotlib.
+- **Python:** Implementations using popular Python libraries like NumPy, Scikit-learn, Pandas and Matplotlib.
 
 ## How to Use
 - Update the load data section of code to fit your data.
