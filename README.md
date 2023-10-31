@@ -1,5 +1,4 @@
 # Data Preprocessing Module
-
 This Python module servers as a template for the process of preparing your data for machine learning tasks.
 It provides examples of how to import data from CSV files, handle missing values, encode categorical data, 
 split data into training and testing sets, and scale features. 
